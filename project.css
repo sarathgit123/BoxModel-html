@@ -1,0 +1,85 @@
+.light{
+    background-color: black;
+    height: 350px;
+    width: 150px;
+    padding: 20px;
+    border-radius: 50px;
+}
+.item1,.item2,.item3{
+    height: 100px;
+    margin: 10px;
+    border-radius: 100px;
+ 
+    
+}
+.item1{
+    background-color: red;
+}
+.item2{
+    background-color: yellow;
+
+}
+.item3{
+    background-color: green;
+}
+.foot{
+    background-color: black;
+    height: 200px;
+    width: 50px;
+    margin-left: 70px;
+    
+}
+.road {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 300px;
+    height: 800px;
+    background-color: black;
+    border-radius: 40px;
+    padding: 20px;
+}
+.white1,.white2,.white3,.white4{
+    /* background-color: white; */
+    height: 40px;
+    width: 20px;
+   margin: 30px 150px;
+   
+
+}
+.white1{
+    background-color: white;
+    height: 140px;
+    width: 20px;
+}
+.white2{
+    background-color: white;
+    height: 140px;
+    width: 20px;
+}
+.white3{
+    background-color: white;
+    height: 140px;
+    width: 20px;
+}
+.white4{
+    background-color: white;
+    height: 140px;
+    width: 20px;
+
+}
+.im1{
+    position: absolute;
+    top: 300px;
+    left: 35%;
+    transform: translateX(-50%); 
+
+}
+.im2{
+    position: absolute;
+    top: 300px;
+    right: 200px;
+    transform: translateX(-50%); 
+
+}
